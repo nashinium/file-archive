@@ -1,0 +1,1 @@
+DMCAで消されたどっかのClientのQT Launcherのアーカイブ、Agentsはexeを起動した後に選択する画面があるのでそこで使用
